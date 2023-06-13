@@ -208,6 +208,10 @@ i span {
 
 @media (max-width: 1200px) {
 
+    body {
+        font-size: 20px;
+    }
+
     .short-header-text { 
         display: inline-block; 
     }
