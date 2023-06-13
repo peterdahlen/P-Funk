@@ -173,8 +173,8 @@ h2 {
 /* S C R O L L  T O  T O P  */
 
 .scroll-to-top {
-    height: 50px;
-    width: 50px;
+    height: 75px;
+    width: 75px;
     background: transparent;
     position: fixed;
     bottom: 75px;
