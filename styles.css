@@ -34,7 +34,6 @@ body {
     background-color: black;
     color: white;
     font-family: var(--poppins);
-    font-size: medium;
 }
 
 a {
@@ -141,8 +140,12 @@ h2 {
 }
 
 .album {
-    font-size: 20px;
+    font-size: 25px;
     margin: 10px 0;
+}
+
+.year, .label, .time, .spotify {
+    font-size: 20px; 
 }
 
 .spotify-header {
@@ -162,8 +165,12 @@ h2 {
     font-weight: bold;
 }
 
+.tracklist {
+    font-size: 20px; 
+}
+
 .track {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 
@@ -238,7 +245,7 @@ i span {
     }
 
     .tracklist {
-        max-width: 500px; 
+        max-width: 700px; 
     }
 
 }
