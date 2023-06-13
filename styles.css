@@ -233,11 +233,11 @@ i span {
     }
 
     article > div {
-        margin: 25px; 
+        margin: 50px; 
     }
 
     img, .info, .tracklist {
-        margin: 25px 25px 0 25px;
+        margin: 50px 50px 0 50px;
     }
 
     .info, .tracklist {
