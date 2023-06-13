@@ -49,7 +49,7 @@ header {
 
     color: var(--light);
     font-family: var(--abril);
-    font-size: 100px;
+    font-size: 6em;
 }
 
 /* B U T T O N S */
@@ -74,7 +74,7 @@ header {
 .filter-button {
     cursor: pointer; 
     color: white; 
-    font-size: 15px; 
+    font-size: 1em; 
     margin-right: 10px; 
     margin-bottom: 10px; 
     padding: 15px;
@@ -136,16 +136,16 @@ img {
 h2 {
     margin: 0 0 10px 0;
     color: var(--light);
-    font-size: 30px; 
+    font-size: 2em; 
 }
 
 .album {
-    font-size: 25px;
+    font-size: 1.5em;
     margin: 10px 0;
 }
 
 .year, .label, .time, .spotify {
-    font-size: 20px; 
+    font-size: 1.3em; 
 }
 
 .spotify-header {
@@ -165,12 +165,8 @@ h2 {
     font-weight: bold;
 }
 
-.tracklist {
-    font-size: 20px; 
-}
-
-.track {
-    font-size: 20px;
+.tracklist, .track {
+    font-size: 1em; 
 }
 
 
@@ -181,10 +177,10 @@ h2 {
     width: 25px;
     background: transparent;
     position: fixed;
-    bottom: 50px;
-    right: 50px;
+    bottom: 75px;
+    right: 75px;
     z-index: 99;
-    font-size: 50px; 
+    font-size: 3em; 
     color: var(--light);
     cursor: pointer;
 }
@@ -196,7 +192,7 @@ h2 {
 
 .fa-arrow-up {
     color: var(--light);
-    font-size: 35px; 
+    font-size: 1em; 
 }
 
 i span {
@@ -209,7 +205,7 @@ i span {
 @media (max-width: 1200px) {
 
     body {
-        font-size: 20px;
+        font-size: 2em;
     }
 
     .short-header-text { 
