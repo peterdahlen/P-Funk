@@ -1,0 +1,1475 @@
+[
+    {
+        "artist": "Funkadelic",
+        "album": "Funkadelic",
+        "year": "1970",
+        "label": "Westbound Records",
+        "image": "../img/funkadelic/funkadelic.jpeg", 
+        "length": "46:37", 
+        "tracklist": [
+            {
+                "track": "1. Mommy, What's a Funkadelic?", 
+                "length": "9:08"
+            },
+            {
+                "track": "2. I Bet You", 
+                "length": "6:10"
+            },
+            {
+                "track": "3. Music For My Mother", 
+                "length": "6:19"    
+            },
+            {
+                "track": "4. I Got a Thang, You Got a Thang, Everybody's Got a Thang", 
+                "length": "3:50"     
+            },
+            {
+                "track": "5. Good Old Music", 
+                "length": "8:01"
+            },
+            {
+                "track": "6. Qualify & Satisfy", 
+                "length": "5:16"
+            },
+            {
+                "track": "7. What Is Soul", 
+                "length": "8:40"    
+            }
+        ],
+        "class": "funkadelic"
+    },
+    {
+        "artist": "Funkadelic",
+        "album": "Free Your Mind and Your Ass Will Follow",
+        "year": "1970",
+        "label": "Westbound Records",
+        "image": "../img/funkadelic/free-your-mind-and-your-ass-will-follow.jpeg",
+        "length": "30:52", 
+        "tracklist": [
+            {
+                "track": "1. Free Your Mind and Your Ass Will Follow", 
+                "length": "10:00"
+            },
+            {
+                "track": "2. Friday Night August 14th", 
+                "length": "5:20"  
+            },
+            {
+                "track": "3. Funky Dollar Bill", 
+                "length": "3:14"      
+            },
+            {
+                "track": "4. I Wanna Know If Its Good To You", 
+                "length": "5:54"      
+            },
+            {
+                "track": "5. Some More", 
+                "length": "2:55"     
+            },
+            {
+                "track": "6. Eulogy and Light", 
+                "length": "3:29"    
+            }
+        ],
+        "class": "funkadelic"
+    },
+    {
+        "artist": "Funkadelic",
+        "album": "Maggot Brain",
+        "year": "1971",
+        "label": "Westbound Records",
+        "image": "../img/funkadelic/maggot-brain.jpeg",
+        "length": "36:56",
+        "tracklist": [
+            {
+                "track": "1. Maggot Brain", 
+                "length": "10:10"
+            },
+            {
+                "track": "2. Can You Get To That", 
+                "length": "2:45"    
+            },
+            {
+                "track": "3. Hit It and Quit It", 
+                "length": "3:44"      
+            },
+            {
+                "track": "4. You and Your Folks, Me and My Folks", 
+                "length": "3:29"   
+            },
+            {
+                "track": "5. Super Stupid", 
+                "length": "3:53"   
+            },
+            {
+                "track": "6. Back in Our Minds", 
+                "length": "2:35"    
+            },
+            {
+                "track": "7. Wars of Armageddon", 
+                "length": "9:28"     
+            }
+        ], 
+        "class": "funkadelic"
+    },
+    {
+        "artist": "Funkadelic",
+        "album": "America Eats Its Young",
+        "year": "1972",
+        "label": "Westbound Records",
+        "image": "../img/funkadelic/america-eats-its-young.jpeg", 
+        "length": "1:09:06", 
+        "tracklist": [
+            {
+                "track": "1. You Hit the Nail on the Head", 
+                "length": "7:10"     
+            },
+            {
+                "track": "2. If You Dont't Like the Effect, Don't Produce the Cause", 
+                "length": "3:43"     
+            },
+            {
+                "track": "3. Everybody Gonna Make It This Time", 
+                "length": "5:50"     
+            },
+            {
+                "track": "4. a Joyfull Process", 
+                "length": "6:10"     
+            },
+            {
+                "track": "5. We Hurt Too", 
+                "length": "3:47"     
+            },
+            {
+                "track": "6. Loose Booty", 
+                "length": "4:45"     
+            },
+            {
+                "track": "7. Philmore", 
+                "length": "2:40"     
+            },
+            {
+                "track": "8. Pussy", 
+                "length": "5.00"     
+            },
+            {
+                "track": "9. America Eats Its Young", 
+                "length": "9:28"     
+            },
+            {
+                "track": "10. Biological Speculation", 
+                "length": "3:00"     
+            },
+            {
+                "track": "11. That Was My Girl", 
+                "length": "3:41"     
+            },
+            {
+                "track": "12. Balance", 
+                "length": "5:25"     
+            },
+            {
+                "track": "13. Miss Lucifer's Love", 
+                "length": "5:50"     
+            },
+            {
+                "track": "14. Wake Up", 
+                "length": "6:20"     
+            }
+        ],
+        "class": "funkadelic"
+    },
+    {
+        "artist": "Funkadelic",
+        "album": "Cosmic Slop",
+        "year": "1973",
+        "label": "Westbound Records", 
+        "image": "../img/funkadelic/cosmic-slop.jpeg", 
+        "length": "35:32",
+        "tracklist": [
+            {
+                "track": "1. Nappy Dogout", 
+                "length": "4:31"
+            },
+            {
+                "track": "2. You Can't Miss What You Can't Messure", 
+                "length": "2:54"    
+            },
+            {
+                "track": "3. March To the Witch's Castle", 
+                "length": "5:54"      
+            },
+            {
+                "track": "4. Let's Make It Last", 
+                "length": "4:10"   
+            },
+            {
+                "track": "5. Comsic Slop", 
+                "length": "5:16"   
+            },
+            {
+                "track": "6. No Compute", 
+                "length": "3:01"    
+            },
+            {
+                "track": "7. This Broken Heart", 
+                "length": "3:39"     
+            },
+            {
+                "track": "8. Trash-A-Go-Go", 
+                "length": "2:23"     
+            },
+            {
+                "track": "9. Can't Stand the Strain", 
+                "length": "3:28"     
+            }
+        ],  
+        "class": "funkadelic"
+    },
+    {
+        "artist": "Funkadelic",
+        "album": "Standing on the Verge of Gettin It On",
+        "year": "1974",
+        "label": "Westbound Records",
+        "image": "../img/funkadelic/standing-on-the-verge-of-gettin-it-on.jpeg",
+        "length": "37:52", 
+        "tracklist": [
+            {
+                "track": "1. Red Hot Mama", 
+                "length": "3:28"
+            },
+            {
+                "track": "2. Alice in My Fantasies", 
+                "length": "2:27"    
+            },
+            {
+                "track": "3. I'll Stay", 
+                "length": "7:13"      
+            },
+            {
+                "track": "4. Sexy Ways", 
+                "length": "3:06"   
+            },
+            {
+                "track": "5. Standing On the Verge of Getting It On", 
+                "length": "4:42"   
+            },
+            {
+                "track": "6. Jimmy's Got a Little Bit of Bitch in Him", 
+                "length": "2:30"    
+            },
+            {
+                "track": "7. Good Thoughts, Bad Thoughts", 
+                "length": "12:20"     
+            }
+        ], 
+        "class": "funkadelic"
+    },
+    {
+        "artist": "Funkadelic",
+        "album": "Let's Take It To the Stage",
+        "year": "1975",
+        "label": "Westbound Records",
+        "image": "../img/funkadelic/lets-take-it-to-the-stage.jpeg", 
+        "length": "35:57",
+        "tracklist": [
+            {
+                "track": "1. Good to Your Earhole", 
+                "length": "4:30"
+            },
+            {
+                "track": "2. Better By the Pound", 
+                "length": "2:40"    
+            },
+            {
+                "track": "3. Be My Beach", 
+                "length": "2:35"      
+            },
+            {
+                "track": "4. No Head, No Backstage Pass", 
+                "length": "2:36"   
+            },
+            {
+                "track": "5. Let's Take To the Stage", 
+                "length": "3:32"   
+            },
+            {
+                "track": "6. Get Off Your Ass and Jam", 
+                "length": "2:00"    
+            },
+            {
+                "track": "7. I Owe You Something Good", 
+                "length": "5:43"     
+            },
+            {
+                "track": "8. Stuffs & Things", 
+                "length": "2:11"     
+            },
+            {
+                "track": "9. the Song Is Familiar", 
+                "length": "3:05"     
+            },
+            {
+                "track": "10. Atmosphere", 
+                "length": "7:05"     
+            }
+        ],  
+        "class": "funkadelic"
+    },
+    {
+        "artist": "Funkadelic",
+        "album": "Tales of Kidd Funkadelic",
+        "year": "1976",
+        "label": "Westbound Records",
+        "image": "../img/funkadelic/tales-of-kidd-funkadelic.jpeg", 
+        "length": "39:49", 
+        "tracklist": [
+            {
+                "track": "1. Butt-To-Buttresuscitation", 
+                "length": "3:53"
+            },
+            {
+                "track": "2. Let's Take It To teh People", 
+                "length": "1:50"    
+            },
+            {
+                "track": "3. Undisco Kidd", 
+                "length": "6:34"      
+            },
+            {
+                "track": "4. Take Your Dead Ass Home! (Say Som'n Nasty)", 
+                "length": "7:18"   
+            },
+            {
+                "track": "5. I'm Never Gonna Tell It", 
+                "length": "3:32"   
+            },
+            {
+                "track": "6. Tales of Kidd Funkadelic (Opusdelite Years)", 
+                "length": "12:56"    
+            },
+            {
+                "track": "7. How Do Yeaw View You", 
+                "length": "3:39"     
+            }
+        ], 
+        "class": "funkadelic"
+    },
+    {
+        "artist": "Funkadelic",
+        "album": "Hardcore Jollies",
+        "year": "1976",
+        "label": "Warner Bros. Records",
+        "image": "../img/funkadelic/hardcore-jollies.jpeg", 
+        "length": "40:05", 
+        "tracklist": [
+            {
+                "track": "1. Comin Round the Mountain", 
+                "length": "5:56"
+            },
+            {
+                "track": "2. Smokey", 
+                "length": "6:08"    
+            },
+            {
+                "track": "3. If You Got Funk, You Got Style", 
+                "length": "3:07"      
+            },
+            {
+                "track": "4. Hardcore Jollies", 
+                "length": "5:01"   
+            },
+            {
+                "track": "5. Soul Mate", 
+                "length": "2:48"   
+            },
+            {
+                "track": "6. Cosmic Slop (Live)", 
+                "length": "6:30"    
+            },
+            {
+                "track": "7. You Scared the Lovin' Outta Me", 
+                "length": "6:28"     
+            },
+            {
+                "track": "8. Adolescent Funk", 
+                "length": "4:18"     
+            }
+        ], 
+        "class": "funkadelic"
+    }, 
+    {
+        "artist": "Funkadelic",
+        "album": "One Nation Under a Groove",
+        "year": "1978",
+        "label": "Warner Bros. Records",
+        "image": "../img/funkadelic/one-nation-under-a-groove.jpeg", 
+        "length": "41:40",
+        "tracklist": [
+            {
+                "track": "1. One Nation Under a Groove", 
+                "length": "7:33"     
+            },
+            {
+                "track": "2. Grooveallegiance", 
+                "length": "7:00"     
+            },
+            {
+                "track": "3. Who Says a Funk Band Can't Play Rock?!", 
+                "length": "6:21"     
+            },
+            {
+                "track": "4. Promentalshitbackwashpsychosis Enema Squad (The Doo Doo Chasers)", 
+                "length": "11:00"     
+            },
+            {
+                "track": "5. Into You", 
+                "length": "5:43"     
+            },
+            {
+                "track": "6. Cholly (Funk Gettin Ready to Roll!)", 
+                "length": "4:33"     
+            },
+            {
+                "track": "7. Maggot Brain", 
+                "length": "7:37"     
+            },
+            {
+                "track": "8. Chant (Thing It Ain't Illegal Yet!)", 
+                "length": "0:53 "     
+            },
+            {
+                "track": "9. Lunchmeataphobia (Think! It Ain't Illegal Yet!)", 
+                "length": "4:16"     
+            },
+            {
+                "track": "10. P.E. Squad / Doo Doo Chasers", 
+                "length": "4:40"     
+            }
+        ],
+        "class": "funkadelic"
+    }, 
+    {
+        "artist": "Funkadelic",
+        "album": "Uncle Jam Wants You",
+        "year": "1979",
+        "label": "Warner Bros. Records",
+        "image": "../img/funkadelic/uncle-jam-wants-you.jpeg", 
+        "length": "41:47", 
+        "tracklist": [
+            {
+                "track": "1. Freak of the Week", 
+                "length": "5:34"     
+            },
+            {
+                "track": "2. (Not Just) Knee Deep", 
+                "length": "15:23"     
+            },
+            {
+                "track": "3. Uncle Jam", 
+                "length": "10:26"     
+            },
+            {
+                "track": "4. Field Maneuvers", 
+                "length": "2:25"     
+            },
+            {
+                "track": "5. Holly Wants To Go To California", 
+                "length": "4:24"     
+            },
+            {
+                "track": "6. Foot Soldiers (Star-Spangled Funky)", 
+                "length": "3:31"     
+            }
+        ],
+        "class": "funkadelic"
+    }, 
+    {
+        "artist": "Funkadelic",
+        "album": "the Electric Spanking of War Babies",
+        "year": "1981",
+        "label": "Warner Bros. Records",
+        "image": "../img/funkadelic/the-electric-spanking-of-war-babies.jpeg", 
+        "length": "44:10",
+        "tracklist": [
+            {
+                "track": "1. the Electric Spanking Of War Babies", 
+                "length": "8:37"     
+            },
+            {
+                "track": "2. Electro-Cuties", 
+                "length": "6:10"     
+            },
+            {
+                "track": "3. Funk Gets Stronger (Part 1)", 
+                "length": "6:37"     
+            },
+            {
+                "track": "4. Brettino's Bounce", 
+                "length": "3:38"     
+            },
+            {
+                "track": "5. Funk Gets Stronger (Killer Millimeter Longer Version)", 
+                "length": "4:26"     
+            },
+            {
+                "track": "6. She Loves You", 
+                "length": "0:16"     
+            },
+            {
+                "track": "7. Shockwaves", 
+                "length": "5:10"     
+            },
+            {
+                "track": "8. Oh, I", 
+                "length": "4:51"     
+            },
+            {
+                "track": "6. Icka Prick", 
+                "length": "4:07"     
+            }
+        ], 
+        "class": "funkadelic"
+    },
+    {
+        "artist": "Parliament",
+        "album": "Osmium",
+        "year": "1970",
+        "label": "Invictus Records",
+        "image": "../img/parliament/osmium.jpeg", 
+        "length": "45:53", 
+        "tracklist": [
+            {
+                "track": "1. I Call My Baby Pussycay", 
+                "length": "3:50"     
+            },
+            {
+                "track": "2. Put Love In Your Life", 
+                "length": "5:05"     
+            },
+            {
+                "track": "3. Little Ole Country Boy", 
+                "length": "3:57"     
+            },
+            {
+                "track": "4. Moonshine Heater", 
+                "length": "4:04"     
+            },
+            {
+                "track": "5. Oh Lord, Why Lord / Prayer", 
+                "length": "4:59"     
+            },
+            {
+                "track": "6. My Automobile", 
+                "length": "4:43"     
+            },
+            {
+                "track": "7. Nothing Before Me But Thang", 
+                "length": "3:55"     
+            },
+            {
+                "track": "8. Funky Woman", 
+                "length": "2:54"     
+            },
+            {
+                "track": "9. Livin' the Life", 
+                "length": "6:15"     
+            },
+            {
+                "track": "10. the Silent Boatman", 
+                "length": "5:50"     
+            }
+        ],
+        "class": "parliament"
+    },
+    {
+        "artist": "Parliament",
+        "album": "Up For the Down Stroke",
+        "year": "1974",
+        "label": "Casablanca Records",
+        "image": "../img/parliament/up-for-the-down-stroke.jpeg", 
+        "length": "39:38", 
+        "tracklist": [
+            {
+                "track": "1. Up For the Down Stroke", 
+                "length": "5:07"     
+            },
+            {
+                "track": "2. Testify", 
+                "length": "4:04"     
+            },
+            {
+                "track": "3. the Goose", 
+                "length": "9:09"     
+            },
+            {
+                "track": "4. I Can Move You (If You Let Me)", 
+                "length": "2:44"     
+            },
+            {
+                "track": "5. I Just Got Back (From The Fantasy: Ahead Of Our Time In The Four Lands Of Ellet)", 
+                "length": "4:28"     
+            },
+            {
+                "track": "6.All Your Goodies Are Gone", 
+                "length": "5:02"     
+            },
+            {
+                "track": "7. Whatever Makes Baby Feel Good", 
+                "length": "5:55"     
+            },
+            {
+                "track": "8. Presence Of A Brain", 
+                "length": "3:18"     
+            }
+        ],
+        "class": "parliament"
+    },
+    {
+        "artist": "Parliament",
+        "album": "Chocolate City",
+        "year": "1975",
+        "label": "Casablanca Records",
+        "image": "../img/parliament/chocolate-city.jpeg", 
+        "length": "36:42", 
+        "tracklist": [
+            {
+                "track": "1. Chocolate City", 
+                "length": "5:35"     
+            },
+            {
+                "track": "2. Ride On", 
+                "length": "3:39"     
+            },
+            {
+                "track": "3. Together", 
+                "length": "3:59"     
+            },
+            {
+                "track": "4. Side Effects", 
+                "length": "3:10"     
+            },
+            {
+                "track": "5. What Comes Funky", 
+                "length": "2:22"     
+            },
+            {
+                "track": "6. If It Don't Fit (Don't Force It)", 
+                "length": "2:07"     
+            },
+            {
+                "track": "7. I Misjudged You", 
+                "length": "5:13"     
+            },
+            {
+                "track": "8. Big Footin", 
+                "length": "4:40"     
+            }
+        ],
+        "class": "parliament"
+    }, 
+    {
+        "artist": "Parliament",
+        "album": "Mothertship Connection",
+        "year": "1975",
+        "label": "Casablanca Records",
+        "image": "../img/parliament/mothership-connection.jpeg", 
+        "length": "38:06", 
+        "tracklist": [
+            {
+                "track": "1. P. Funk (Wants To Get Funked Up)", 
+                "length": "7:42"     
+            },
+            {
+                "track": "2. Mothership Connection (Star Child)", 
+                "length": "6:14"     
+            },
+            {
+                "track": "3. Unfunky UFO", 
+                "length": "4:24"     
+            },
+            {
+                "track": "4. Supergroovalisticprosifunkstication", 
+                "length": "5:01"     
+            },
+            {
+                "track": "5. Handcuffs", 
+                "length": "4:01"     
+            },
+            {
+                "track": "6. Give Up The Funk (Tear The Roof Off The Sucker)", 
+                "length": "5:45"     
+            },
+            {
+                "track": "7. Night Of The Thumpasorus Peoples", 
+                "length": "5:12"     
+            }
+        ],
+        "class": "parliament"
+    }, 
+    {
+        "artist": "Parliament",
+        "album": "the Clones of Dr. Funkenstein",
+        "year": "1976",
+        "label": "Casablanca Records",
+        "image": "../img/parliament/the-clones-of-dr-funkenstein.jpeg", 
+        "length": "40:11", 
+        "tracklist": [
+            {
+                "track": "1. Prelude", 
+                "length": "1:40"     
+            },
+            {
+                "track": "2. Gamin On Ya", 
+                "length": "3:02"     
+            },
+            {
+                "track": "3. Dr. Funkenstein", 
+                "length": "5:46"     
+            },
+            {
+                "track": "4. Children Of Production", 
+                "length": "3:57"     
+            },
+            {
+                "track": "5. Getten' To Know You", 
+                "length": "5:20"     
+            },
+            {
+                "track": "6. Do That Stuff", 
+                "length": "4:47"     
+            },
+            {
+                "track": "7. Everything Is On The One", 
+                "length": "3:47"     
+            },
+            {
+                "track": "8. I've Been Watching You (Move Your Sexy Body)", 
+                "length": "6:01"     
+            },
+            {
+                "track": "9. Funkin For Fun", 
+                "length": "5:56"     
+            }
+        ],
+        "class": "parliament"
+    }, 
+    {
+        "artist": "Parliament",
+        "album": "Funkentelechy vs. the Placebo Syndrome",
+        "year": "1977",
+        "label": "Casablanca Records",
+        "image": "../img/parliament/funk-vs-placebo.jpeg", 
+        "length": "44:22", 
+        "tracklist": [
+            {
+                "track": "1. Bop Gun (Endangered Species)", 
+                "length": "8:29"     
+            },
+            {
+                "track": "2. Sir Nose D'Voidoffunk (Pay Attention - B3M)", 
+                "length": "10:04"     
+            },
+            {
+                "track": "3. Wizard Of Finance", 
+                "length": "4:23"     
+            },
+            {
+                "track": "4. Funkentelechy", 
+                "length": "10:56"     
+            },
+            {
+                "track": "5. Placebo Syndrome", 
+                "length": "4:20"     
+            },
+            {
+                "track": "6. Flash Light", 
+                "length": "5:46"     
+            }
+        ],
+        "class": "parliament"
+    }, 
+    {
+        "artist": "Parliament",
+        "album": "Live: (P-funk Earth Tour)",
+        "year": "1977",
+        "label": "Casablanca Records",
+        "image": "../img/parliament/live.jpeg", 
+        "length": "1:09:56", 
+        "tracklist": [
+            {
+                "track": "1. P.Funk (Wants To Get Funked Up)", 
+                "length": "6:14"     
+            },
+            {
+                "track": "2. Dr. Funkentstein's Supergroovalisticprosifunkstication Medley", 
+                "length": "4:58"     
+            },
+            {
+                "track": "3. Do That Stuff", 
+                "length": "5:15"     
+            },
+            {
+                "track": "4. The Landing (Of The Holy Mothership)", 
+                "length": "3:05"     
+            },
+            {
+                "track": "5. The Undisco Kid (The Girl Is Bad)", 
+                "length": "7:03"     
+            },
+            {
+                "track": "6. Children Of Production", 
+                "length": "2:44"     
+            },
+            {
+                "track": "7. Mothership Connection (Star Child)", 
+                "length": "5:55"     
+            },
+            {
+                "track": "8. Swing Down, Sweet Chariot", 
+                "length": "5.07"     
+            },
+            {
+                "track": "9. This Is The Way We Funk With You", 
+                "length": "5:04"     
+            },
+            {
+                "track": "10. Dr. Funkenstein", 
+                "length": "15:04"     
+            },
+            {
+                "track": "11. Gamin' On Ya'", 
+                "length": "3:30"     
+            },
+            {
+                "track": "12. Tear The Roof Off The Sucker Medley", 
+                "length": "5:43"     
+            },
+            {
+                "track": "13. Tear The Roof Off The Sucker Medley", 
+                "length": "6:14"     
+            },
+            {
+                "track": "14. Fantasy Is A Reality", 
+                "length": "5:45"     
+            }
+        ],
+        "class": "parliament"
+    }, 
+    {
+        "artist": "Parliament",
+        "album": "Motor Booty Affair",
+        "year": "1978",
+        "label": "Casablanca Records",
+        "image": "../img/parliament/motor-booty-affair.jpeg", 
+        "length": "46:24", 
+        "tracklist": [
+            {
+                "track": "1. Mr. Wiggles", 
+                "length": "6:44"     
+            },
+            {
+                "track": "2. Rumpofsteelskin", 
+                "length": "5:35"     
+            },
+            {
+                "track": "3. (You're A Fish And I'm A) Water Sign", 
+                "length": "4:35"     
+            },
+            {
+                "track": "4. Aqua Boogie (A Psychoalphadiscobetabioaquadoloop)", 
+                "length": "6:40"     
+            },
+            {
+                "track": "5. One Of Those Funky Things", 
+                "length": "3:46"     
+            },
+            {
+                "track": "6. Liquid Sunshine", 
+                "length": "4:24"     
+            },
+            {
+                "track": "7. The Motor-Booty Affair", 
+                "length": "6:15"     
+            },
+            {
+                "track": "8. Deep", 
+                "length": "8:50"     
+            }
+        ],
+        "class": "parliament"
+    }, 
+    {
+        "artist": "Parliament",
+        "album": "Gloryhallastoopid (Pin the Tale on the Funky)",
+        "year": "1979",
+        "label": "Casablanca Records",
+        "image": "../img/parliament/gloryhallastoopid.jpeg", 
+        "length": "45:02", 
+        "tracklist": [
+            {
+                "track": "1. (GloryHallaStoopid) Pin The Tale On The Funky", 
+                "length": "4:53"     
+            },
+            {
+                "track": "2. Party People", 
+                "length": "9:59"     
+            },
+            {
+                "track": "3. The Big Bang Theory", 
+                "length": "7:00"     
+            },
+            {
+                "track": "4. The Freeze (Sizzaleenmean)", 
+                "length": "9:00"     
+            },
+            {
+                "track": "5. Colour Me Funky", 
+                "length": "4:50"     
+            },
+            {
+                "track": "6. Theme From The Black Hole", 
+                "length": "4:35"     
+            },
+            {
+                "track": "7. May We Bang You?", 
+                "length": "4:45"     
+            }
+        ],
+        "class": "parliament"
+    }, 
+    {
+        "artist": "Parliament",
+        "album": "Trombipulation",
+        "year": "1980",
+        "label": "Casablanca Records",
+        "image": "../img/parliament/trombipulation.jpeg", 
+        "length": "43:20", 
+        "tracklist": [
+            {
+                "track": "1. Crush It", 
+                "length": "3:50"     
+            },
+            {
+                "track": "2. Trombipulation", 
+                "length": "4:33"     
+            },
+            {
+                "track": "3. Long Way Around", 
+                "length": "5:41"     
+            },
+            {
+                "track": "4. Agony Of Defeet", 
+                "length": "6:00"     
+            },
+            {
+                "track": "5. New Doo Review", 
+                "length": "5:53"     
+            },
+            {
+                "track": "6. Let's Play House", 
+                "length": "3:39"     
+            },
+            {
+                "track": "7. Body Language", 
+                "length": "5:56"     
+            },
+            {
+                "track": "8. Peek-A-Groove", 
+                "length": "7:48"     
+            }
+        ],
+        "class": "parliament"
+    },
+    {
+        "artist": "Bootsy's Rubber Band",
+        "album": "Strechin Out In Bootsy's Rubber Band",
+        "year": "1975",
+        "label": "Warner Bros. Records",
+        "image": "../img/bootsy/strechin-out.jpeg",
+        "length": "39:43", 
+        "tracklist": [
+            {
+                "track": "1. Stretchin' Out (In A Rubber Band)", 
+                "length": "6:52"     
+            },
+            {
+                "track": "2. Psychoticbumpschool", 
+                "length": "5:20"     
+            },
+            {
+                "track": "3. Another Point Of View", 
+                "length": "7:02"     
+            },
+            {
+                "track": "4. I'd Rather Be With You", 
+                "length": "5:03"     
+            },
+            {
+                "track": "5. Love Vibes", 
+                "length": "4:51"     
+            },
+            {
+                "track": "6. Physical Love", 
+                "length": "4:49"     
+            },
+            {
+                "track": "7. Vanish In Our Sleep", 
+                "length": "5:46"     
+            }
+        ],
+        "class": "bootsy"
+    },
+    {
+        "artist": "Bootsy's Rubber Band",
+        "album": "Ahh... the Name is Bootsy, Baby!",
+        "year": "1977",
+        "label":"Warner Bros. Records",
+        "image": "../img/bootsy/bootsy-baby.jpeg",
+        "length": "38:39", 
+        "tracklist": [
+            {
+                "track": "1. Ahh...The Name Is Bootsy, Baby!", 
+                "length": "6:52"     
+            },
+            {
+                "track": "2. The Pinocchio Theory", 
+                "length": "6:08"     
+            },
+            {
+                "track": "3. Rubber Duckie", 
+                "length": "3:18"     
+            },
+            {
+                "track": "4. Preview Side Too", 
+                "length": "0:56"     
+            },
+            {
+                "track": "5. What's A Telephone Bill?", 
+                "length": "5:58 "     
+            },
+            {
+                "track": "6. Munchies For Your Love", 
+                "length": "9:39"     
+            },
+            {
+                "track": "7. Can't Stay Away", 
+                "length": "5:28"     
+            },
+            {
+                "track": "8. Reprise: We Want Bootsy", 
+                "length": "0:20"     
+            }
+        ],
+        "class": "bootsy"
+    },
+    {
+        "artist": "Bootsy's Rubber Band",
+        "album": "Bootsy? Player of the Year",
+        "year": "1978",
+        "label": "Warner Bros. Records",
+        "image": "../img/bootsy/player-of-the-year.jpeg", 
+        "length": "44:51", 
+        "tracklist": [
+            {
+                "track": "1. Bootsy? (What's The Name Of This Town)", 
+                "length": "6:59"     
+            },
+            {
+                "track": "2. May The Force Be With You", 
+                "length": "6:02"     
+            },
+            {
+                "track": "3. Very Yes", 
+                "length": "8:24"     
+            },
+            {
+                "track": "4. Bootzilla", 
+                "length": "5:38"     
+            },
+            {
+                "track": "5. Hollywood Squares", 
+                "length": "6:15"     
+            },
+            {
+                "track": "6. Roto-Rooter", 
+                "length": "6:25"     
+            },
+            {
+                "track": "7. As In (I Love You)", 
+                "length": "5:08"     
+            }
+        ],
+        "class": "bootsy"
+    }, 
+    {
+        "artist": "Bootsy's Rubber Band",
+        "album": "This Boot Is Made For Fonk-n",
+        "year": "1979",
+        "label": "Warner Bros. Records",
+        "image": "../img/bootsy/this-boot.jpeg", 
+        "length": "44:06", 
+        "tracklist": [
+            {
+                "track": "1. Under The Influence Of A Groove", 
+                "length": "8:38"     
+            },
+            {
+                "track": "2. Bootsy Get Live", 
+                "length": "6:18"     
+            },
+            {
+                "track": "3. Oh Boy Gorl", 
+                "length": "7:49"     
+            },
+            {
+                "track": "4. Jam Fan (Hot)", 
+                "length": "9:08"     
+            },
+            {
+                "track": "5. Chug-A-Lug (The Bun Patrol)", 
+                "length": "6:29"     
+            },
+            {
+                "track": "6. Shejam (Almost Bootsy Show)", 
+                "length": "5:05"     
+            },
+            {
+                "track": "7. Reprise (Get Live)", 
+                "length": "0:40"     
+            }
+        ],
+        "class": "bootsy"
+    }, 
+    {
+        "artist": "Parlet",
+        "album": "Pleasure Principle",
+        "year": "1978",
+        "label": "Casablanca Records",
+        "image": "../img/parlet/pleasure.jpeg", 
+        "length": "38:47", 
+        "tracklist": [
+            {
+                "track": "1. Pleasure Principle", 
+                "length": "8:54"     
+            },
+            {
+                "track": "2. Love Amnesia", 
+                "length": "5:10"     
+            },
+            {
+                "track": "3. Cookie Jar", 
+                "length": "5:30"     
+            },
+            {
+                "track": "4. Misunderstanding", 
+                "length": "7:20"     
+            },
+            {
+                "track": "5. Are You Dreaming?", 
+                "length": "6:58"     
+            },
+            {
+                "track": "6. Mr. Melody Man", 
+                "length": "4:55"     
+            }
+        ],
+        "class": "parlet"
+    }, 
+    {
+        "artist": "Parlet",
+        "album": "Invasion of the Booty Snatchers",
+        "year": "1979",
+        "label": "Casablanca Records",
+        "image": "../img/parlet/invasion.jpeg", 
+        "length": "40:36", 
+        "tracklist": [
+            {
+                "track": "1. Ridin' High", 
+                "length": "7:40"     
+            },
+            {
+                "track": "2. No Rump To Bump", 
+                "length": "6:10"     
+            },
+            {
+                "track": "3. Don't Ever Stop (Lovin' Me, Needin' Me)", 
+                "length": "7:13"     
+            },
+            {
+                "track": "4. Booty Snatchers", 
+                "length": "5:50"     
+            },
+            {
+                "track": "5. You're Leaving", 
+                "length": "6:26"     
+            },
+            {
+                "track": "6. Huff-N-Puff", 
+                "length": "7:17"     
+            }
+        ],
+        "class": "parlet"
+    }, 
+    {
+        "artist": "Parlet",
+        "album": "Play Me or Trade Me",
+        "year": "1980",
+        "label": "Casablanca Records",
+        "image": "../img/parlet/play-me.jpeg", 
+        "length": "38:22", 
+        "tracklist": [
+            {
+                "track": "1. Help From My Friends", 
+                "length": "5:57"     
+            },
+            {
+                "track": "2. Watch Me Do My Thang", 
+                "length": "4:38"     
+            },
+            {
+                "track": "3. Wolf Tickets", 
+                "length": "8:58"     
+            },
+            {
+                "track": "4. Play Me Or Trade Me", 
+                "length": "5:00"     
+            },
+            {
+                "track": "5. I'm Mo Be Hittin' It", 
+                "length": "4:52"     
+            },
+            {
+                "track": "6. Funk Until The Edge Of Time", 
+                "length": "4:46"     
+            },
+            {
+                "track": "7. Wonderful One", 
+                "length": "4:11"     
+            }
+        ],
+        "class": "parlet"
+    }, 
+    {
+        "artist": "the Brides of Funkenstein",
+        "album": "Funk or Walk",
+        "year": "1978",
+        "label": "Atlantic Records",
+        "image": "../img/brides/funk-or-walk.jpeg", 
+        "length": "40:02", 
+        "tracklist": [
+            {
+                "track": "1. Disco To Go", 
+                "length": "5:03"     
+            },
+            {
+                "track": "2. War Ship Touchante", 
+                "length": "5:27"     
+            },
+            {
+                "track": "3. Nappy", 
+                "length": "4:29"     
+            },
+            {
+                "track": "4. Birdie", 
+                "length": "5:39"     
+            },
+            {
+                "track": "5. Just Like You", 
+                "length": "9:11"     
+            },
+            {
+                "track": "6. When You're Gone", 
+                "length": "5:19"     
+            },
+            {
+                "track": "7. Amorous", 
+                "length": "4:54"     
+            }
+        ],
+        "class": "brides"
+    }, 
+    {
+        "artist": "the Brides of Funkenstein",
+        "album": "Never Buy Texas From a Cowboy",
+        "year": "1979",
+        "label": "Atlantic Records",
+        "image": "../img/brides/never-buy.jpeg", 
+        "length": "44:06", 
+        "tracklist": [
+            {
+                "track": "1. Never Buy Texas From A Cowboy", 
+                "length": "15:15"     
+            },
+            {
+                "track": "2. I'm Holding You Responsible", 
+                "length": "5:30"     
+            },
+            {
+                "track": "3. Smoke Signals", 
+                "length": "6:40"     
+            },
+            {
+                "track": "4. Mother May I?", 
+                "length": "5:35"     
+            },
+            {
+                "track": "5. Party Up In Here", 
+                "length": "5:33"     
+            },
+            {
+                "track": "6. Didn't Mean To Fall In Love", 
+                "length": "4:00"     
+            }
+        ],
+        "class": "brides"
+    }, 
+    {
+        "artist": "Fred Wesley and the Horny Horns",
+        "album": "A Blow For Me, a Toot To You",
+        "year": "1977",
+        "label": "Atlantic Records",
+        "image": "../img/fred-wesley/a-blow.jpeg", 
+        "length": "41:44", 
+        "tracklist": [
+            {
+                "track": "1. Up For The Down Stroke", 
+                "length": "9:10"     
+            },
+            {
+                "track": "2. A Blow For Me, A Toot To You", 
+                "length": "7:20"     
+            },
+            {
+                "track": "3. When In Doubt: Vamp", 
+                "length": "4:21"     
+            },
+            {
+                "track": "4. Between Two Sheets", 
+                "length": "6:50"     
+            },
+            {
+                "track": "5. Four Play", 
+                "length": "8:03"     
+            },
+            {
+                "track": "6. Peace Fugue", 
+                "length": "6:00"     
+            }
+        ],
+        "class": "fred"
+    },
+    {
+        "artist": "Fred Wesley and the Horny Horns",
+        "album": "Say Blow By Blow Backwards",
+        "year": "1979",
+        "label": "Atlantic Records",
+        "image": "../img/fred-wesley/say-blow.jpeg", 
+        "length": "41:11", 
+        "tracklist": [
+            {
+                "track": "1. We Came To Funk Ya", 
+                "length": "6:55"     
+            },
+            {
+                "track": "2. Half A Man", 
+                "length": "9:32"     
+            },
+            {
+                "track": "3. Say Blow By Blow Backwards", 
+                "length": "5:10"     
+            },
+            {
+                "track": "4. Mr. Melody Man", 
+                "length": "7:04"     
+            },
+            {
+                "track": "5. Just Like You", 
+                "length": "6:47"     
+            },
+            {
+                "track": "6. Circular Motion", 
+                "length": "5:43"     
+            }
+        ],
+        "class": "fred"
+    },
+    {
+        "artist": "Eddie Hazel",
+        "album": "Game, Dames and Guitar Thangs",
+        "year": "1977",
+        "label": "Warner Bros. Records",
+        "image": "../img/eddie-hazel/game-dame.jpeg", 
+        "length": "34:06", 
+        "tracklist": [
+            {
+                "track": "1. California Dreamin'", 
+                "length": "6:16"     
+            },
+            {
+                "track": "2. Frantic Moment", 
+                "length": "3:42"     
+            },
+            {
+                "track": "3. So Goes The Story", 
+                "length": "3:55"     
+            },
+            {
+                "track": "4. I Want You (She's So Heavy)", 
+                "length": "9:25"     
+            },
+            {
+                "track": "5. Physical Love", 
+                "length": "5:32"     
+            },
+            {
+                "track": "6. What About It?", 
+                "length": "3:46"     
+            },
+            {
+                "track": "7. California Dreamin' (Reprise)", 
+                "length": "1:30"     
+            }
+        ],
+        "class": "eddie"
+    },
+    {
+        "artist": "Bernie Worrell",
+        "album": "All the Woo in the World",
+        "year": "1978",
+        "label": "Arista Records",
+        "image": "../img/bernie/all-woo.jpeg", 
+        "length": "42:11", 
+        "tracklist": [
+            {
+                "track": "1. Woo Together", 
+                "length": "4:33"     
+            },
+            {
+                "track": "2. I'll Be With You", 
+                "length": "7:28"     
+            },
+            {
+                "track": "3. Hold On", 
+                "length": "5:15"     
+            },
+            {
+                "track": "4. Much Thrust", 
+                "length": "3:52"     
+            },
+            {
+                "track": "5. Happy To Have (Happiness On Our Side)", 
+                "length": "7:41"     
+            },
+            {
+                "track": "6. Insurance Man For The Funk", 
+                "length": "12:39"     
+            },
+            {
+                "track": "7. Reprise: Much Thrust", 
+                "length": "0:43"     
+            }
+        ],
+        "class": "bernie"
+    }
+]
