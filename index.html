@@ -22,19 +22,11 @@
             </header>
 
             <div class="button-wrapper">
-                <div class="buttons">
-                    <button class="filter-button" data-filter="funkadelic">Funkadelic</button>
-                    <button class="filter-button" data-filter="parliament">Parliament</button>
-                    <button class="filter-button" data-filter="bootsy">Bootsy's Rubber Band</button>
-                    <button class="filter-button" data-filter="parlet">Parlet</button>
-                    <button class="filter-button" data-filter="brides">the Brides of Funkenstein</button>
-                    <button class="filter-button" data-filter="fred">Fred Wesley and the Horny Horns</button>
-                    <button class="filter-button" data-filter="bernie">Bernie Worrell</button>
-                    <button class="filter-button" data-filter="eddie">Eddie Hazel</button> 
-                    <button class="filter-button" data-filter="fuzzy">Fuzzy Haskins</button> 
+                <div id="filter-buttons">
+                    
                 </div>               
                 <div>
-                    <button class="filter-button active" data-filter="all">the Funk Mob</button>  
+                    <button class="filter-button active" data-filter="all">All</button>  
                 </div>
                   
             </div>
@@ -1751,6 +1743,26 @@
                     containerDiv.appendChild(albumArticle);
                 });
             
+                
+                var filterButtonsDiv = document.getElementById('filter-buttons');
+
+                // Extract unique artists from the data
+                var uniqueArtists = [...new Set(PFUNK.map(album => album.artist))];
+
+                // Create filter buttons for each unique artist
+                uniqueArtists.forEach(function(artist) {
+                    var button = document.createElement('button');
+                    button.textContent = artist;
+                    button.className = "filter-button";
+                    var className = PFUNK.find(function(album) {
+                        return album.artist === artist;
+                    }).class;
+                    button.setAttribute('data-filter', className);
+                
+                    filterButtonsDiv.appendChild(button);
+                });
+
+
             </script>
 
             <script src="scripts.js"></script>
