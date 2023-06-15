@@ -22,9 +22,13 @@
             </header>
 
             <div class="button-wrapper">
-                <div id="filter-buttons">
+                <div id="filter-buttons-artist">
                     
-                </div>               
+                </div>  
+                
+                <div id="filter-buttons-year">
+
+                </div>
                 <div>
                     <button class="filter-button active" data-filter="all">All</button>  
                 </div>
@@ -1650,7 +1654,7 @@
 
                 PFUNK.forEach(function(album) {
                     var albumArticle = document.createElement('article');
-                    albumArticle.className = album.class + " filter";
+                    albumArticle.className = album.class + " filter " + album.year;
 
                     var image = document.createElement('img');
                     image.src = album.image;
@@ -1665,7 +1669,7 @@
                     albumIcon.className = "fa fa-solid fa-record-vinyl";
                     var albumFont = document.createElement('span');
                     albumFont.className = "album-header";
-                    albumFont.textContent = " " + album.album;
+                    albumFont.textContent = album.album;
                     // albumP.appendChild(albumIcon);
                     albumP.appendChild(albumFont);
 
@@ -1675,7 +1679,7 @@
                     yearIcon.className = "fa fa-regular fa-calendar-days";
                     var yearFont = document.createElement('span');
                     yearFont.className = "year-header";
-                    yearFont.textContent = " " + album.year;
+                    yearFont.textContent = album.year;
                     yearP.appendChild(yearIcon);
                     yearP.appendChild(yearFont);
                     
@@ -1685,7 +1689,7 @@
                     labelIcon.className = "fa fa-solid fa-tag";
                     var labelFont = document.createElement('span');
                     labelFont.className = "label-header";
-                    labelFont.textContent = " " + album.label;
+                    labelFont.textContent = album.label;
                     labelP.appendChild(labelIcon);
                     labelP.appendChild(labelFont);
 
@@ -1695,7 +1699,7 @@
                     timeIcon.className = "fa fa-regular fa-clock";
                     var timeFont = document.createElement('span');
                     timeFont.className = "time-header";
-                    timeFont.textContent = " " + album.length;
+                    timeFont.textContent = album.length;
                     timeP.appendChild(timeIcon);
                     timeP.appendChild(timeFont);
 
@@ -1744,12 +1748,10 @@
                 });
             
                 
-                var filterButtonsDiv = document.getElementById('filter-buttons');
+                var filterButtonsArtist = document.getElementById('filter-buttons-artist');
 
-                // Extract unique artists from the data
                 var uniqueArtists = [...new Set(PFUNK.map(album => album.artist))];
 
-                // Create filter buttons for each unique artist
                 uniqueArtists.forEach(function(artist) {
                     var button = document.createElement('button');
                     button.textContent = artist;
@@ -1759,8 +1761,30 @@
                     }).class;
                     button.setAttribute('data-filter', className);
                 
-                    filterButtonsDiv.appendChild(button);
+                    filterButtonsArtist.appendChild(button);
                 });
+
+                // var albumsDiv = document.getElementById('albums');
+                var filterButtonsYear = document.getElementById('filter-buttons-year');
+
+                // Extract unique years from the data
+                var uniqueYears = [...new Set(PFUNK.map(album => album.year))];
+                console.log(uniqueYears);
+
+                // Create filter buttons for each unique year
+                uniqueYears.forEach(function(year) {
+                    var button = document.createElement('button');
+                    button.textContent = year;
+                    button.className = "filter-button";
+                    var className = PFUNK.find(function(album) {
+                        return album.year === year;
+                    }).year;
+                    button.setAttribute('data-filter', year);
+                    
+                    filterButtonsYear.appendChild(button);
+                });
+
+                
 
 
             </script>

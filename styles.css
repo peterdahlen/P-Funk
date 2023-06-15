@@ -157,7 +157,7 @@ h2 {
 }
 
 .filter-header, .year-header, .label-header, .time-header, .spotify-header {
-    margin-left: 10px; 
+    margin-left: 15px; 
     font-weight: 500; 
 }
 
@@ -208,12 +208,20 @@ i span {
         font-size: 2em;
     }
 
+    header{
+        margin: 25px 0;
+    }
+
     .short-header-text { 
         display: inline-block; 
     }
 
     .full-header-text { 
         display: none; 
+    }
+
+    #containerDiv, .button-wrapper {
+        max-width: 90%;
     }
 
     .buttons {
