@@ -26,3 +26,22 @@ $(window).scroll(function() {
 $('#scrollToTopBtn').click(function() {
   $('html, body').animate({ scrollTop: 0 }, 'slow');
 });
+
+// Dropdown
+$(".btn-all-artist").hide();
+$(".btn-all-year").hide();
+
+$(".menu-artists").hide();
+$(".btn-dropdown-artist").click(function(){
+  $(".menu-artists").fadeToggle("fast");
+  $(".btn-all-artist").fadeToggle("fast");
+});
+
+$(".menu-years").hide();
+$(".btn-dropdown-year").click(function(){
+  $(".menu-years").fadeToggle("fast");
+  $(".btn-all-year").fadeToggle("fast");
+});
+
+
+btn-dropdown-artist

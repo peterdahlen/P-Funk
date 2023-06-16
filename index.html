@@ -2,17 +2,25 @@
     <html>
         <head>
             <title>P-Funk</title>
-            <link rel="stylesheet" href="styles.css">
-
+            
             <link rel="preconnect" href="https://fonts.googleapis.com">
             <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
             <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins&display=swap" rel="stylesheet">
-            
+
+            <!-- Bootstrap-->
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+                <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+                <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+            <!-- Bootstrap-->
+
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 
             <link rel="icon" href="https://pbs.twimg.com/profile_images/892567034/PfunkRadiosign2try_400x400.jpg">
 
             <script src="https://kit.fontawesome.com/c0f0c19ad4.js" crossorigin="anonymous"></script>
+
+            <link rel="stylesheet" href="styles.css">
             
         </head>
         <body>
@@ -22,16 +30,40 @@
             </header>
 
             <div class="button-wrapper">
-                <div id="filter-buttons-artist">
+            
+                <div class="dropdown-wrapper">
+                    <button class="filter-button btn-dropdown-artist">
+                        <i class="fa-solid fa-user"></i>Artists
+                    </button>
+                    <button class="btn-all-artist filter-button active" data-filter="all">All</button>
+            
+                    <div class="menu-artists">
+                        <div id="filter-buttons-artist">
+                        
+                        </div>
+                    </div>
+       
+                </div>
                     
-                </div>  
-                
-                <div id="filter-buttons-year">
+                <div class="dropdown-wrapper">
+                    
+                    <button class="filter-button btn-dropdown-year">
+                        <i class="fa-solid fa-calendar-days"></i>Year
+                    </button>
+                    <button class="btn-all-year filter-button active" data-filter="all">All</button> 
+                          
+                    <div class="menu-years">
+                        <div id="filter-buttons-year">     
+                        
+                        </div>                       
+                    </div>
+                    
+                </div>
 
-                </div>
-                <div>
-                    <button class="filter-button active" data-filter="all">All</button>  
-                </div>
+               <!--  <div id="filter-buttons-label">
+
+                </div> -->
+                
                   
             </div>
 
@@ -43,12 +75,14 @@
 
             <script>
 
+                // JSON
                 var PFUNK = [
                     {
                         "artist": "Funkadelic",
                         "album": "Funkadelic",
                         "year": "1970",
                         "label": "Westbound Records",
+                        "label2": "westbound",
                         "image": "img/funkadelic/funkadelic.jpeg", 
                         "length": "46:37", 
                         "tracklist": [
@@ -82,7 +116,8 @@
                             }
                         ],
                         "spotify": "https://open.spotify.com/album/2muElcL0DcIPj12CsCUzhf?si=zHxGkqWuTxquyCnCD7hicg", 
-                        "class": "funkadelic"
+                        "class": "funkadelic", 
+                        "record": "westbound"
                     },
                     {
                         "artist": "Funkadelic",
@@ -1651,11 +1686,12 @@
                 PFUNK.sort(function(a, b) {
                     return a.year - b.year;
                 });
-
+                
+                // Article
                 PFUNK.forEach(function(album) {
                     var albumArticle = document.createElement('article');
-                    albumArticle.className = album.class + " filter " + album.year;
-
+                    albumArticle.className = album.class + " " + album.year + " " + album.label2 + " filter";
+                    
                     var image = document.createElement('img');
                     image.src = album.image;
 
@@ -1670,7 +1706,6 @@
                     var albumFont = document.createElement('span');
                     albumFont.className = "album-header";
                     albumFont.textContent = album.album;
-                    // albumP.appendChild(albumIcon);
                     albumP.appendChild(albumFont);
 
                     var yearP = document.createElement('p');
@@ -1747,9 +1782,8 @@
                     containerDiv.appendChild(albumArticle);
                 });
             
-                
+                // Filter buttons artist
                 var filterButtonsArtist = document.getElementById('filter-buttons-artist');
-
                 var uniqueArtists = [...new Set(PFUNK.map(album => album.artist))];
 
                 uniqueArtists.forEach(function(artist) {
@@ -1761,17 +1795,14 @@
                     }).class;
                     button.setAttribute('data-filter', className);
                 
-                    filterButtonsArtist.appendChild(button);
+                    filterButtonsArtist.append(button);
                 });
 
-                // var albumsDiv = document.getElementById('albums');
+                
+                // Filter buttons year
                 var filterButtonsYear = document.getElementById('filter-buttons-year');
-
-                // Extract unique years from the data
                 var uniqueYears = [...new Set(PFUNK.map(album => album.year))];
-                console.log(uniqueYears);
 
-                // Create filter buttons for each unique year
                 uniqueYears.forEach(function(year) {
                     var button = document.createElement('button');
                     button.textContent = year;
@@ -1780,11 +1811,26 @@
                         return album.year === year;
                     }).year;
                     button.setAttribute('data-filter', year);
-                    
-                    filterButtonsYear.appendChild(button);
+                                        
+                    filterButtonsYear.append(button);
                 });
 
                 
+                // Filter buttons label
+             /* var filterButtonsLabel = document.getElementById('filter-buttons-label');
+                var uniqueLabels = [...new Set(PFUNK.map(album => album.label))];
+
+                uniqueLabels.forEach(function(label) {
+                    var button = document.createElement('button');
+                    button.textContent = label;
+                    button.className = "filter-button";
+                    var className = PFUNK.find(function(album) {
+                        return album.label === label;
+                    });
+                    button.setAttribute('data-filter', label);
+                    
+                    filterButtonsLabel.appendChild(button);
+                }); */
 
 
             </script>

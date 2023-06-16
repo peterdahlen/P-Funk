@@ -57,11 +57,10 @@ header {
 .button-wrapper {
     display: flex; 
     flex-direction: column; 
-    justify-content: center;
+    justify-content: left;
 
     margin: auto;
     max-width: 80%;
-    padding-bottom: 50px;
 }
 
 .buttons {
@@ -92,16 +91,27 @@ header {
     color: var(--light);
 }
 
-.buttons span {
+button i {
     margin: 0 10px;
 }
+
+button:focus {
+    outline: none; 
+}
+
+.btn-dropdown-artist, .btn-dropdown-year {
+    font-size: 1.3em;
+}
+
+
 
 
 /* A R T I C L E */
 
 #containerDiv {
     margin: auto; 
-    max-width: 80%; 
+    max-width: 80%;
+    padding-top: 25px; 
 }
 
 article {
@@ -210,6 +220,7 @@ i span {
 
     header{
         margin: 25px 0;
+        font-size: 4em;
     }
 
     .short-header-text { 
